@@ -7,7 +7,7 @@ var things = ['Potato', 'Bro', 'Hommie', 'Mi Amigo', 'Poopy Pants'];
 var rando = things[Math.floor(Math.random()*things.length)];
 var userInfo = prompt('Hello, What\'s your name?');
 console.log(userInfo);
-var b = confirm(userInfo + '... That\'s a boring name, can I wall you ' + rando + ' instead?');
+var b = confirm(userInfo + '... That\'s a boring name, can I call you ' + rando + ' instead?');
 if (b === true) {
   alert('Awesome! I really like ' + rando + ' better.');
   userInfo = rando;
