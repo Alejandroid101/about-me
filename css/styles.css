@@ -1,5 +1,5 @@
 body{
-    background-color: forestgreen;
+    background-color: darkgreen;
 }
 
     h1{    
@@ -7,7 +7,6 @@ body{
         text-align: center;
         font-size: 250%;
         margin-bottom: 0em;
-
     }
 
     img{
@@ -18,6 +17,9 @@ body{
         width: 800px;
         height: auto;
 
+    }
+    .cursoshand{
+        cursor: pointer;
     }
     #links{
         margin-left: auto;
@@ -38,7 +40,7 @@ body{
     a{
         font-family: 'Arvo', serif;
         text-align: center;
-        color: rgb(99, 3, 3);
+        color: #b7cad1;
         font-size: 150%;
         font-weight: 200;
         margin-right: 1em;
@@ -52,6 +54,6 @@ body{
     }
 
     nav{
-        background-color: blue
+        background-color: rgb(99, 3, 3);
     }
 
