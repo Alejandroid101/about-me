@@ -1,0 +1,59 @@
+body{
+    background-color: darkgreen;
+}
+
+    h1{    
+        font-family: 'Arvo', serif;
+        text-align: center;
+        font-size: 250%;
+        margin-bottom: 0em;
+    }
+
+    img{
+        margin-left: auto;
+        margin-right: auto;
+        border: 2px;
+        border-radius: 5px;
+        width: 800px;
+        height: auto;
+
+    }
+    .cursoshand{
+        cursor: pointer;
+    }
+    #links{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        width: 800px;
+        height: auto;
+    }
+    .lists{
+        font-family: 'Arvo', serif;
+        align-content: space-around;
+
+    }
+    b{
+        font-size: 120%
+    }
+
+    a{
+        font-family: 'Arvo', serif;
+        text-align: center;
+        color: #b7cad1;
+        font-size: 150%;
+        font-weight: 200;
+        margin-right: 1em;
+    }
+    article{
+        text-align: auto;
+    }
+    
+    p{
+        font-family: 'Arvo', serif;
+    }
+
+    nav{
+        background-color: rgb(99, 3, 3);
+    }
+
